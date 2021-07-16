@@ -1,4 +1,4 @@
-SSH based connection.
+A SSH based connection.
 
 This is a test file.
 
